@@ -1,0 +1,19 @@
+{
+  "author": {
+    "email": "yegor256@gmail.com",
+    "name": "Yegor Bugayenko"
+  },
+  "description": "A single skill that hardens the style checkers and static analyzers already wired into a project: discovers every configuration in place, raises each tool to its strictest practical setting, and adds a list of custom rules on top \u2014 it cranks what is configured rather than introducing a new toolchain",
+  "homepage": "https://github.com/yegor256/purist",
+  "keywords": [
+    "skills",
+    "static-analysis",
+    "linting",
+    "code-quality",
+    "automation"
+  ],
+  "license": "MIT",
+  "name": "purist",
+  "repository": "https://github.com/yegor256/purist",
+  "version": "0.1.0"
+}
